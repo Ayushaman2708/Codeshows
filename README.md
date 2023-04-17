@@ -6,6 +6,10 @@ CodeShows Hackathon Website
 
 # Home Page
 
+![Screenshot (53)](https://user-images.githubusercontent.com/114259025/232572953-7ed6f91c-119b-4d9a-bc2e-e17b35f0d1d6.png)
+
+# Home Page(Dark Mode)
+-> Click on Night Mode Button at lower Left Corner
 
 ![Screenshot (51)](https://user-images.githubusercontent.com/114259025/232572342-99d57a75-c445-4354-9313-c88d0114296a.png)
 
